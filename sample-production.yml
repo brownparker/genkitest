@@ -2,3 +2,7 @@
 spring:
   key1: production value1
   key2: production value2
+
+person:
+  name: genki
+  age: twenty five
